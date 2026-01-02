@@ -1,0 +1,8 @@
+{
+  "name": "HỌC TIẾNG TRUNG - Tác giả Phạm Manh Hùng",
+  "description": "A modern, professional Chinese learning CRM-style dashboard optimized for desktop and tablet.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
